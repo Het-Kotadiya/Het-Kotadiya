@@ -1,7 +1,6 @@
 ### Hi, I'm Het Kotadiya
 
-Cybersecurity graduate student at DePaul University, working on AI safety.
-I test how AI systems fail, and whether the safeguards and monitors around them actually catch it.
+Cybersecurity graduate student at DePaul University, focused on AI safety, specifically **AI control and monitoring**: catching and stopping AI agents that misbehave.
 
 **Selected work**
 
@@ -12,6 +11,6 @@ I test how AI systems fail, and whether the safeguards and monitors around them 
 - **Defense in depth against LLM jailbreaks** (security capstone, DePaul)
   Tested three safety layers on Vicuna-7B against 282 published JailbreakBench attacks. An input filter plus an output filter cut attack success from 95% to 10%, while wrongly blocking 10% of harmless requests. A hardened system prompt backfired on this small model, raising wrongful blocks from 4% to 27%.
 
-**Currently:** learning AI forecasting and building evaluations of AI research tools.
+**Currently:** learning AI control and monitoring, and building experiments on how well monitors catch misbehaving AI agents.
 
 [Website](https://hetkotadiya.com)
